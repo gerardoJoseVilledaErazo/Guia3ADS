@@ -1,0 +1,68 @@
+﻿@model IEnumerable<Cinema.Models.Pelicula>
+@{
+    ViewBag.Title = "Search Result";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@ViewBag.Title</h2>
+<br />
+
+<body>
+    <div class="container">
+        <h1>Peliculas por género:</h1>
+
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Id)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Nombre)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Genero)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.AnioLanzamiento)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Mes)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Clasificacion)
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Id)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Nombre)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Genero)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.AnioLanzamiento)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Mes)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Clasificacion)
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <br />
+    <a href="seleccionar_genero">Regresar</a>
+</body>
+

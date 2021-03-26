@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewBag.Title = "Seleccionar género";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@ViewBag.Title</h2>
+<br />
+
+<ul>
+    <li>@Html.ActionLink("Acción", "por_genero", "Peliculas", new { Op = 1 }, null)</li>
+    <li>@Html.ActionLink("Animación", "por_genero", "Peliculas", new { Op = 2 }, null)</li>
+    <li>@Html.ActionLink("Aventura", "por_genero", "Peliculas", new { Op = 3 }, null)</li>
+    <li>@Html.ActionLink("Ciencia ficción", "por_genero", "Peliculas", new { Op = 4 }, null)</li>
+    <li>@Html.ActionLink("Comedia", "por_genero", "Peliculas", new { Op = 5 }, null)</li>
+    <li>@Html.ActionLink("Crimen", "por_genero", "Peliculas", new { Op = 6 }, null)</li>
+    <li>@Html.ActionLink("Drama", "por_genero", "Peliculas", new { Op = 7 }, null)</li>
+    <li>@Html.ActionLink("Fantasía", "por_genero", "Peliculas", new { Op = 8 }, null)</li>
+    <li>@Html.ActionLink("Misterio", "por_genero", "Peliculas", new { Op = 9 }, null)</li>
+    <li>@Html.ActionLink("Romance", "por_genero", "Peliculas", new { Op = 10 }, null)</li>
+</ul>
+
+<br />
+<a href="peliculas">Regresar</a>

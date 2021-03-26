@@ -1,0 +1,46 @@
+﻿@model Cinema.Models.Cliente
+
+@{
+    ViewBag.Title = "Listado de Clientes";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<button class="btn btn-success">Agregar Nuevo</button>
+
+<body>
+    <div class="container">
+        <h1>Clientes</h1>
+
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th class="text-center">ID</th>
+                    <th class="text-center">NOMBRE</th>
+                    <th class="text-center">EDAD</th>
+                    <th class="text-center">NUMERO DE TELEFONO</th>
+                    <th class="text-center">DUI</th>
+                    <th class="text-center">DIRECCION</th>
+                    <th class="text-center">ACCIONES</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="text-center">@Model.Id</td>
+                    <td>@Model.Nombre</td>
+                    <td class="text-center">@Model.Edad</td>
+                    <td class="text-center">@Model.NumeroTelefono</td>
+                    <td class="text-center">@Model.DUI</td>
+                    <td class="text-center">@Model.Direccion</td>
+                    <td class="text-center">
+                        <a class="btn btn-warning" href="">Editar</a>
+                        <a class="btn btn-danger" href="">Eliminar</a>
+                    </td>
+                </tr>
+
+            </tbody>
+        </table>
+    </div>
+</body>
+

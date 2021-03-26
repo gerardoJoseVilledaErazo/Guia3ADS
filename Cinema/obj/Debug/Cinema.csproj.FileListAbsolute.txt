@@ -1,0 +1,406 @@
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\ApplicationInsights.config
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\roslyn\csc.exe
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\roslyn\System.Collections.Immutable.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\roslyn\vbc.exe
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\roslyn\VBCSCompiler.exe
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\roslyn\VBCSCompiler.exe.config
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Cinema.dll.config
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Cinema.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Cinema.pdb
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Antlr3.Runtime.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\EntityFramework.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\EntityFramework.SqlServer.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Microsoft.AI.Web.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Microsoft.AI.WindowsServer.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Microsoft.ApplicationInsights.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Microsoft.Owin.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Microsoft.Owin.Security.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Microsoft.Owin.Security.Google.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Microsoft.Web.Infrastructure.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Newtonsoft.Json.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Owin.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\System.Web.Helpers.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\System.Web.Mvc.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\System.Web.Optimization.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\System.Web.Razor.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\System.Web.WebPages.Deployment.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\System.Web.WebPages.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\System.Web.WebPages.Razor.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\WebGrease.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Microsoft.AI.Web.xml
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Microsoft.AI.WindowsServer.xml
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Microsoft.ApplicationInsights.xml
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\System.Web.Helpers.xml
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\System.Web.Mvc.xml
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\System.Web.Optimization.xml
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\System.Web.Razor.xml
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\System.Web.WebPages.xml
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\System.Web.WebPages.Deployment.xml
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\System.Web.WebPages.Razor.xml
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Antlr3.Runtime.pdb
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Newtonsoft.Json.xml
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\EntityFramework.xml
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\EntityFramework.SqlServer.xml
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Microsoft.Owin.xml
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Microsoft.Owin.Security.xml
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Microsoft.Owin.Security.Google.xml
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\es\System.Web.Helpers.resources.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\es\System.Web.Mvc.resources.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\es\System.Web.Optimization.resources.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\es\System.Web.Razor.resources.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\es\System.Web.WebPages.resources.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\es\EntityFramework.resources.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\es\EntityFramework.SqlServer.resources.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\es\Microsoft.Owin.resources.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\es\Microsoft.Owin.Security.resources.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\es\Microsoft.Owin.Security.Google.resources.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\obj\Debug\Cinema.csprojResolveAssemblyReference.cache
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\obj\Debug\Cinema.dll
+c:\users\t\documents\visual studio 2015\Projects\Cinema\Cinema\obj\Debug\Cinema.pdb
+C:\Users\user\Desktop\Cinema\Cinema\bin\ApplicationInsights.config
+C:\Users\user\Desktop\Cinema\Cinema\bin\roslyn\csc.exe
+C:\Users\user\Desktop\Cinema\Cinema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\Cinema\Cinema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\Cinema\Cinema\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\Cinema\Cinema\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\Cinema\Cinema\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\Cinema\Cinema\bin\Cinema.dll.config
+C:\Users\user\Desktop\Cinema\Cinema\bin\Cinema.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\Cinema.pdb
+C:\Users\user\Desktop\Cinema\Cinema\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\EntityFramework.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\Microsoft.AI.Web.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\Owin.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\WebGrease.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user\Desktop\Cinema\Cinema\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\user\Desktop\Cinema\Cinema\bin\Microsoft.AI.Web.xml
+C:\Users\user\Desktop\Cinema\Cinema\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user\Desktop\Cinema\Cinema\bin\Microsoft.ApplicationInsights.xml
+C:\Users\user\Desktop\Cinema\Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\Cinema\Cinema\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\Cinema\Cinema\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\Cinema\Cinema\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\Cinema\Cinema\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\Cinema\Cinema\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\Cinema\Cinema\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\Cinema\Cinema\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\Cinema\Cinema\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\Cinema\Cinema\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Cinema\Cinema\bin\EntityFramework.xml
+C:\Users\user\Desktop\Cinema\Cinema\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\Cinema\Cinema\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\Cinema\Cinema\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\Cinema\Cinema\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\Cinema\Cinema\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\Cinema\Cinema\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\Cinema\Cinema\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\Cinema\Cinema\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\Cinema\Cinema\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\Cinema\Cinema\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\Cinema\Cinema\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\Cinema\Cinema\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\Cinema\Cinema\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\Cinema\Cinema\bin\es\System.Web.Helpers.resources.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\es\System.Web.Mvc.resources.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\es\System.Web.Optimization.resources.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\es\System.Web.Razor.resources.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\es\System.Web.WebPages.resources.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\es\EntityFramework.resources.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\es\Microsoft.Owin.resources.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\user\Desktop\Cinema\Cinema\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\user\Desktop\Cinema\Cinema\obj\Debug\Cinema.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Cinema\Cinema\obj\Debug\Cinema.dll
+C:\Users\user\Desktop\Cinema\Cinema\obj\Debug\Cinema.pdb
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\ApplicationInsights.config
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\roslyn\csc.exe
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\roslyn\System.Collections.Immutable.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\roslyn\System.Reflection.Metadata.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\roslyn\vbc.exe
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\roslyn\VBCSCompiler.exe
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\roslyn\VBCSCompiler.exe.config
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Cinema.dll.config
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Cinema.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Cinema.pdb
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Antlr3.Runtime.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\EntityFramework.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\EntityFramework.SqlServer.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Microsoft.AI.Agent.Intercept.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Microsoft.AI.DependencyCollector.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Microsoft.AI.Web.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Microsoft.AI.WindowsServer.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Microsoft.ApplicationInsights.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Microsoft.AspNet.Identity.Core.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Microsoft.Owin.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Microsoft.Owin.Security.Cookies.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Microsoft.Owin.Security.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Microsoft.Owin.Security.Facebook.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Microsoft.Owin.Security.Google.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Microsoft.Owin.Security.OAuth.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Microsoft.Owin.Security.Twitter.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Microsoft.Web.Infrastructure.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Newtonsoft.Json.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Owin.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\System.Web.Helpers.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\System.Web.Mvc.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\System.Web.Optimization.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\System.Web.Razor.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\System.Web.WebPages.Deployment.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\System.Web.WebPages.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\System.Web.WebPages.Razor.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\WebGrease.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Microsoft.AI.DependencyCollector.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Microsoft.AI.Web.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Microsoft.AI.WindowsServer.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Microsoft.ApplicationInsights.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\System.Web.Helpers.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\System.Web.Mvc.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\System.Web.Optimization.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\System.Web.Razor.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\System.Web.WebPages.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\System.Web.WebPages.Deployment.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\System.Web.WebPages.Razor.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Antlr3.Runtime.pdb
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Newtonsoft.Json.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\EntityFramework.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\EntityFramework.SqlServer.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Microsoft.AspNet.Identity.Core.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Microsoft.Owin.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Microsoft.Owin.Security.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Microsoft.Owin.Security.Facebook.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Microsoft.Owin.Security.Cookies.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Microsoft.Owin.Security.OAuth.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Microsoft.Owin.Security.Google.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Microsoft.Owin.Security.Twitter.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\es\System.Web.Helpers.resources.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\es\System.Web.Mvc.resources.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\es\System.Web.Optimization.resources.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\es\System.Web.Razor.resources.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\es\System.Web.WebPages.resources.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\es\EntityFramework.resources.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\es\EntityFramework.SqlServer.resources.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\es\Microsoft.Owin.resources.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\es\Microsoft.Owin.Security.resources.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\obj\Debug\Cinema.csprojResolveAssemblyReference.cache
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\obj\Debug\Cinema.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA2LABADS\Guia2LabADS-master\Cinema\obj\Debug\Cinema.pdb
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\ApplicationInsights.config
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\roslyn\csc.exe
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\roslyn\System.Collections.Immutable.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\roslyn\System.Reflection.Metadata.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\roslyn\vbc.exe
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\roslyn\VBCSCompiler.exe
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\roslyn\VBCSCompiler.exe.config
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Cinema.dll.config
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Cinema.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Cinema.pdb
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Antlr3.Runtime.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\EntityFramework.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\EntityFramework.SqlServer.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Microsoft.AI.Agent.Intercept.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Microsoft.AI.DependencyCollector.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Microsoft.AI.Web.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Microsoft.AI.WindowsServer.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Microsoft.ApplicationInsights.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Microsoft.AspNet.Identity.Core.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Microsoft.Owin.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Microsoft.Owin.Security.Cookies.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Microsoft.Owin.Security.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Microsoft.Owin.Security.Facebook.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Microsoft.Owin.Security.Google.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Microsoft.Owin.Security.OAuth.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Microsoft.Owin.Security.Twitter.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Microsoft.Web.Infrastructure.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Newtonsoft.Json.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Owin.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\System.Web.Helpers.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\System.Web.Mvc.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\System.Web.Optimization.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\System.Web.Razor.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\System.Web.WebPages.Deployment.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\System.Web.WebPages.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\System.Web.WebPages.Razor.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\WebGrease.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Microsoft.AI.DependencyCollector.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Microsoft.AI.Web.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Microsoft.AI.WindowsServer.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Microsoft.ApplicationInsights.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\System.Web.Helpers.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\System.Web.Mvc.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\System.Web.Optimization.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\System.Web.Razor.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\System.Web.WebPages.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\System.Web.WebPages.Deployment.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\System.Web.WebPages.Razor.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Antlr3.Runtime.pdb
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Newtonsoft.Json.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\EntityFramework.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\EntityFramework.SqlServer.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Microsoft.AspNet.Identity.Core.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Microsoft.Owin.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Microsoft.Owin.Security.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Microsoft.Owin.Security.Facebook.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Microsoft.Owin.Security.Cookies.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Microsoft.Owin.Security.OAuth.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Microsoft.Owin.Security.Google.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Microsoft.Owin.Security.Twitter.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\es\System.Web.Helpers.resources.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\es\System.Web.Mvc.resources.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\es\System.Web.Optimization.resources.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\es\System.Web.Razor.resources.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\es\System.Web.WebPages.resources.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\es\EntityFramework.resources.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\es\EntityFramework.SqlServer.resources.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\es\Microsoft.Owin.resources.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\es\Microsoft.Owin.Security.resources.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\obj\Debug\Cinema.csprojAssemblyReference.cache
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\obj\Debug\Cinema.csproj.CopyComplete
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\obj\Debug\Cinema.dll
+C:\CICLO 01 2021\LABORATORIO ADS2021\GUIA3ADS\Guia2ADS GerardoJoseVilledaErazo\Cinema\obj\Debug\Cinema.pdb

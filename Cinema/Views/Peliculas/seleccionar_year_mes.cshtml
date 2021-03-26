@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewBag.Title = "Seleccionar año y mes";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@ViewBag.Title</h2>
+<br />
+
+<form class="form-inline" action="por_fecha" method="post">
+    <div class="form-group mb-2">
+        <label>Ingrese año:</label>
+        <input type="number" class="form-control" name="Year" placeholder="/YYYY/" required>
+    </div>
+    <div class="form-group mx-sm-3 mb-2">
+        <label>Ingrese mes:</label>
+        <input type="number" class="form-control" name="Mes" placeholder="/MM/" required>
+    </div>
+    <button type="submit" class="btn btn-primary mb-2">Aceptar</button>
+</form>
+
+<br />
+<a href="peliculas">Regresar</a>

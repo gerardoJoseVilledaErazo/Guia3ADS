@@ -1,0 +1,20 @@
+﻿@model Cinema.Models.Pelicula
+@{
+    ViewBag.Title = "Lista de opciones de ordenamiento de películas";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@ViewBag.Title</h2>
+<br />
+<h3>Ordenar:</h3>
+<ul>
+    <a href="por_nombre">a. Por nombre</a>
+    <br />
+    <a href="seleccionar_year_mes">b. Por fecha</a>
+    <br />
+    <a href="seleccionar_genero">c. Por género</a>
+    <br />
+</ul>
+
+<br />
+<a href="/Home/Index">Regresar</a>
